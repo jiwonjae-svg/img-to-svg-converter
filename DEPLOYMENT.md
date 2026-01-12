@@ -7,15 +7,15 @@
 #### package.json
 ```json
 {
-  "homepage": "https://yourusername.github.io/project-svg"
+  "homepage": "https://yourusername.github.io/img-to-svg-converter"
 }
 ```
 - `yourusername`을 실제 GitHub 사용자명으로 변경
-- `project-svg`를 실제 레포지토리 이름으로 변경
+- `img-to-svg-converter`를 실제 레포지토리 이름으로 변경
 
 #### vite.config.ts
 ```typescript
-base: '/project-svg/'
+base: '/img-to-svg-converter/'
 ```
 - 레포지토리 이름과 일치하도록 수정
 
@@ -31,7 +31,7 @@ base: '/project-svg/'
 1. **AdSense 가입**
    - https://www.google.com/adsense 방문
    - Google 계정으로 로그인
-   - 사이트 URL 입력 (예: https://yourusername.github.io/project-svg)
+   - 사이트 URL 입력 (예: https://yourusername.github.io/img-to-svg-converter)
 
 2. **승인 대기**
    - 사이트 콘텐츠가 충분해야 함 (최소 10-20개 이상의 페이지 권장)
@@ -203,7 +203,7 @@ npm run deploy
 ## 📋 배포 후 확인사항
 
 ### 1. 사이트 접속 확인
-- https://yourusername.github.io/project-svg/
+- https://yourusername.github.io/img-to-svg-converter/
 - 모든 페이지가 정상 작동하는지 확인
 
 ### 2. 광고 표시 확인

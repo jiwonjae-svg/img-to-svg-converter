@@ -94,7 +94,7 @@ MIT License
 
 ## 👨‍💻 개발자
 
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@jiwonjae-svg](https://github.com/jiwonjae-svg)
 
 ---
 

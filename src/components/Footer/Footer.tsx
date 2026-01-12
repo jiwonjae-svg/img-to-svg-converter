@@ -23,11 +23,11 @@ export const Footer: React.FC = () => {
           <p className="footer-developer">
             <span>{t.footer.developer}:</span>
             <a
-              href="https://github.com/yourusername"
+              href="https://github.com/jiwonjae-svg/img-to-svg-converter"
               {...safeExternalLinkProps}
               className="footer-link"
             >
-              @YourUsername
+              @jiwonjae-svg
               <ExternalLink size={12} />
             </a>
           </p>
@@ -35,7 +35,7 @@ export const Footer: React.FC = () => {
 
         <div className="footer-links">
           <a
-            href="https://github.com/yourusername/project-svg"
+            href="https://github.com/jiwonjae-svg/img-to-svg-converter"
             {...safeExternalLinkProps}
             className="footer-github"
             aria-label="GitHub Repository"

@@ -2,31 +2,37 @@
 
 ## 📦 배포 전 체크리스트
 
-### 1. 설정 파일 업데이트
+### 1. 설정 파일 (이미 완료됨)
 
 #### package.json
 ```json
 {
-  "homepage": "https://yourusername.github.io/img-to-svg-converter"
+  "homepage": "https://jiwonjae-svg.github.io/"
 }
 ```
-- `yourusername`을 실제 GitHub 사용자명으로 변경
-- `img-to-svg-converter`를 실제 레포지토리 이름으로 변경
+✅ 최상위 도메인으로 설정 완료
 
 #### vite.config.ts
 ```typescript
-base: '/img-to-svg-converter/'
+base: '/'
 ```
-- 레포지토리 이름과 일치하도록 수정
+✅ 최상위 경로로 설정 완료
+
+#### 저장소 이름
+- **중요**: GitHub 저장소 이름을 `jiwonjae-svg.github.io`로 변경하세요
+- 이렇게 하면 https://jiwonjae-svg.github.io/ 에 직접 배포됩니다
+- AdSense 등록이 가능해집니다
 
 #### public/sitemap.xml & robots.txt
-- URL을 실제 배포 URL로 변경
+✅ URL이 https://jiwonjae-svg.github.io/ 로 업데이트됨
 
 ---
 
 ## 💰 Google AdSense 설정 가이드
 
 ### 1. AdSense 계정 생성 및 사이트 등록
+
+**등록 URL**: `https://jiwonjae-svg.github.io` (서브경로 제외)
 
 1. **AdSense 가입**
    - https://www.google.com/adsense 방문

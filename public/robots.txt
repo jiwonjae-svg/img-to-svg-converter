@@ -9,4 +9,4 @@ Disallow: /api/
 Disallow: /admin/
 
 # Sitemap 위치
-Sitemap: https://jiwonjae-svg.github.io/img-to-svg-converter/sitemap.xml
+Sitemap: https://jiwonjae-svg.github.io/sitemap.xml

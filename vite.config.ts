@@ -6,8 +6,8 @@ export default defineConfig({
   plugins: [react()],
   
   // GitHub Pages 배포를 위한 base 경로
-  // 실제 레포지토리 이름으로 변경 필요
-  base: '/img-to-svg-converter/',
+  // jiwonjae-svg.github.io 저장소는 최상위 도메인에 배포
+  base: '/',
   
   build: {
     // 빌드 최적화

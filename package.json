@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://jiwonjae-svg.github.io/img-to-svg-converter/",
+  "homepage": "https://jiwonjae-svg.github.io/",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",

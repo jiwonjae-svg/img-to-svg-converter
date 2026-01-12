@@ -110,8 +110,8 @@ const App: React.FC = () => {
           <div className="ad-container">
             <ins className="adsbygoogle"
               style={{ display: 'block' }}
-              data-ad-client="ca-pub-XXXXXXXXXXXXXXXX"
-              data-ad-slot="1234567890"
+              data-ad-client="ca-pub-5903235347710527"
+              data-ad-slot="6650588038"
               data-ad-format="auto"
               data-full-width-responsive="true"></ins>
           </div>
@@ -155,8 +155,8 @@ const App: React.FC = () => {
           <div className="ad-container">
             <ins className="adsbygoogle"
               style={{ display: 'block' }}
-              data-ad-client="ca-pub-XXXXXXXXXXXXXXXX"
-              data-ad-slot="0987654321"
+              data-ad-client="ca-pub-5903235347710527"
+              data-ad-slot="6650588038"
               data-ad-format="fluid"
               data-ad-layout-key="-fb+5w+4e-db+86"></ins>
           </div>
@@ -168,8 +168,8 @@ const App: React.FC = () => {
           <div className="ad-container">
             <ins className="adsbygoogle"
               style={{ display: 'block' }}
-              data-ad-client="ca-pub-XXXXXXXXXXXXXXXX"
-              data-ad-slot="1122334455"
+              data-ad-client="ca-pub-5903235347710527"
+              data-ad-slot="6650588038"
               data-ad-format="auto"
               data-full-width-responsive="true"></ins>
           </div>
